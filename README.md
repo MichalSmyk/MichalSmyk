@@ -10,7 +10,7 @@ I'm Michal, soon to become junior software developer.
 
 ### [CV](https://github.com/MichalSmyk/CV) 
 
-# Projects 
+# 🧠 Projects 
 
 Name    |    Description      | Tech     
 -------- | ------------- | -----------
