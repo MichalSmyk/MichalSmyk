@@ -44,6 +44,7 @@ Final project | |
 ![](https://github-profile-trophy.vercel.app/?username=MIchalSmyk&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
 
+![Codewars](https://github.r2v.ch/codewars?user=MichalSmyk&stroke=%23BB432C)
 
 
 ---
