@@ -16,7 +16,7 @@ Name    |    Description      | Tech
 -------- | ------------- | -----------
 Final project | | 
 [AceBook](https://github.com/MichalSmyk/acebook-mern-fire) | A facebook clone | MERN
-MakersBnB | An AirBnB clone | PostgradeSQL, Sinatra, Ruby Active Record
+[MakersBnB](https://github.com/MichalSmyk/Makers_BnB) | An AirBnB clone | PostgradeSQL, Sinatra, Ruby Active Record
 
 
 ## 🌐 Socials:
