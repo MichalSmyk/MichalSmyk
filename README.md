@@ -14,7 +14,7 @@ I'm Michal, soon to become junior software developer.
 
 Name    |    Description      | Tech     
 -------- | ------------- | -----------
-Final project | Update on 10/03/23 | 
+[Solved](https://github.com/MichalSmyk/Solved) | City Treasure Hunt | MERN, React Native
 [AceBook](https://github.com/MichalSmyk/acebook-mern-fire) | A facebook clone | MERN
 [MakersBnB](https://github.com/MichalSmyk/Makers_BnB) | An AirBnB clone | PostgradeSQL, Sinatra, Ruby Active Record
 
