@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Michal, soon to become junior software developer. 
+I'm Michal, junior software developer. 
 
 - 🔭 I’m currently working on improving my coding skills
 - 🌱 I’m currently learning software developing at Makers Academy
