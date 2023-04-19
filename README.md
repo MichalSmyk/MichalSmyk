@@ -3,8 +3,7 @@
 I'm Michal, junior software developer. 
 
 - 🔭 I’m currently working on improving my coding skills
-- 🌱 I’m currently learning software developing at Makers Academy
-- 👯 I’m looking to collaborate on web3 apps
+- 🌱 I’m currently building a journal app powered by AI
 - 💬 Ask me about my plans
 - 📫 How to reach me: michal.smyk38@gmail.com
 
