@@ -13,6 +13,7 @@ I'm Michal, junior software developer.
 
 Name    |    Description      | Tech     
 -------- | ------------- | -----------
+[Whisper Journal](https://github.com/MichalSmyk/whisper-journal) | AI powered journal app | Native, MongoDB, Node.js, Express.js
 [Solved](https://github.com/MichalSmyk/Solved) | City Treasure Hunt | MERN, React Native
 [AceBook](https://github.com/MichalSmyk/acebook-mern-fire) | Social media website | MERN
 [MakersBnB](https://github.com/MichalSmyk/Makers_BnB) | Online rental website | PostgradeSQL, Sinatra, Ruby Active Record
