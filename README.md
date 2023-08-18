@@ -2,7 +2,7 @@
 
 I'm Michal, junior software developer. 
 
-- 🔭 I’m currently working on improving my coding skills
+- 🔭 I’m currently working on improving my Python skills
 - 🌱 I’m currently building a journal app powered by AI
 - 📫 How to reach me: michal.smyk38@gmail.com
 
