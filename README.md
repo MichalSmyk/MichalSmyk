@@ -43,8 +43,8 @@ Name    |    Description      | Tech
 ## Makers Academy Nov'22-March'23
 
 After graduating from the rigorous Makers Academy Software Engineering Bootcamp, my programming
-acumen has significantly grown, honing concepts such as Test-Driven Development (TDD), Object-Oriented
-Programming (OOP), pair programming, and agile methodologies.
+acumen has significantly grown, honing concepts such as ***Test-Driven Development (TDD)***, ***Object-Oriented
+Programming (OOP)***, pair programming, and agile methodologies.
  *  ***Project Highlight:*** A project I initiated and completed is 'Solved,' a treasure-hunting game designed for
 tourists exploring London. Technologies employed included Node.js, Express, MongoDB, and React Native.
 The project also allowed me to practice utilising RESTful APIs and Jest for unit testing.
