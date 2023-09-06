@@ -42,6 +42,27 @@ Name    |    Description      | Tech
 
 ## Makers Academy Nov'22-March'23
 
-
+After graduating from the rigorous Makers Academy Software Engineering Bootcamp, my programming
+acumen has significantly grown, honing concepts such as Test-Driven Development (TDD), Object-Oriented
+Programming (OOP), pair programming, and agile methodologies.
+• Project Highlight: A project I initiated and completed is 'Solved,' a treasure-hunting game designed for
+tourists exploring London. Technologies employed included Node.js, Express, MongoDB, and React Native.
+The project also allowed me to practice utilising RESTful APIs and Jest for unit testing.
+• Test-Driven Development: I apply TDD practices in my problem-solving approach, habitually writing
+automated tests before proceeding with coding. this helps me write clean code that works.
+• Lifelong Learner: I am a resilient and self-motivated person who enjoys continuous learning to improve my
+tech skills. During the largely self-driven course, I cultivated a strong foundation in self-discipline and
+resourcefulness, vital assets in the ever-evolving tech landscape.
+• Strategic Coding: My proficiency in SOLID and OOP principles informs my coding practice, resulting in
+cleaner, easily maintainable software. Strategic thinking facilitates effective planning and prioritization,
+ensuring the timely delivery of superior software solutions.
+• Agile Development: A solid grounding in agile development principles underscores my ability to thrive in
+fast-paced, collaborative environments. My experience spans numerous engineering projects, focusing on
+iterative value delivery to end-users. I also enjoy taking part in agile rituals, like daily stand-ups and retros.
+• Software Design: I have designed and built over 20 web applications, gaining substantial hands-on
+experience with Ruby and JavaScript.
+• Agile Collaboration: I have effectively collaborated within agile teams, embodying eXtreme Programming
+(XP) values, and mastering the nuances of pair programming, Continuous Integration/Continuous Deployment
+(CI/CD), and Git workflows
 ---
 ![](https://visitcount.itsvg.in/api?id=MIchalSmyk&icon=0&color=0)
