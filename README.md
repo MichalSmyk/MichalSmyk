@@ -2,8 +2,8 @@
 
 I'm Michal, junior software developer. 
 
-- 🔭 I’m currently working
-- 🌱 I’m building software that connects various e commerce doamins to a fulfilment service, keeps track of stock, and updates orders
+- 🔭 I’m currently working on an app to connect roasteries and coffee shops with coffee machine engineers 
+- 🌱 I’ve build software that connects various e commerce doamins to a fulfilment service, keeps track of stock, and updates orders
 - 📫 How to reach me: michal.smyk38@gmail.com
 
 Eager to pivot into the tech industry, I am an adaptable problem solver with a passion for understanding complex systems. My
