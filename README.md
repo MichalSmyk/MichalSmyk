@@ -37,6 +37,35 @@ Name    |    Description      | Tech
   <img height="30" src="https://user-images.githubusercontent.com/68279555/200387386-276c709f-380b-46cc-81fd-f292985927a8.png" />
   ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
+# Work
+## Software Engineer
+ ### AQUILA PROJECTS
+ #### 10/2023 – Present
+Sole developer responsible for maintaining critical systems and implementing new features for an in-house fulfilment service. Also
+Supporting a sister marketing company by handling front-end tasks such as styling, layout adjustments, and developing custom
+components for Shopify and WooCommerce stores.
+Tech stack: Node.js, Express.js, MongoDB Atlas, JavaScript, REST API, GraphQL API, React Native, Expo, Redux and Jest. Continuous
+Integration/Continuous Deployment (CI/CD) using GitHub, AWS.
+Fulfilment Service Project:
+* Developed and maintained a fulfilment system backend.
+* Integrated the system with Shopify, WooCommerce, and BigCommerce to automate order processing and transmit data to
+the internal CRM.
+* Applied API integrations to filter non-managed products, maintain real-time stock levels across multiple online retailers, and
+update order statuses daily.
+* Built a React-based user interface for staff to manage orders, including functionality for accepting/cancelling orders and
+adding comments; reducing the time to place orders by 90%.
+Coffee Industry App (In Development):
+Leading the development of an app for the coffee industry.
+The app allows coffee shops and roasteries to book engineer services, featuring geolocation (Google Maps integration), engineer
+rating systems, user chat functionality, and global job quote requests.
+Volunteer Software Engineer/Technical Consultant
+
+## PENSANO DEVELOPERS Pensano
+ #### 06/2023 - Present
+* Collaborating with other junior engineers on developing meaningful projects using best practices in
+programming
+* Currently building [Aura app](https://github.com/Pensano-dev/aura-new)
+
 
 # 🏦 Education
 
